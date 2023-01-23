@@ -5,13 +5,11 @@ Node.js Module boilerplate
 
 ```bash
 $ node index.mjs
-API: http://localhost:53922
+API: http://localhost:53969
 INFO: Connected to network
-some info
-some error info
-some info
 ERROR: An error happened
-some info
+some log
+some error log
 ```
 
 ## Links
