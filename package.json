@@ -1,0 +1,12 @@
+{
+  "name": "filecoin-station-nodejs",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "filecion-station/nodejs",
+  "scripts": {
+    "test": "standard"
+  },
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
