@@ -1,5 +1,6 @@
 # nodejs
-Node.js Module boilerplate
+
+Boilerplate for building Station Modules with Node.js
 
 ## Example
 
