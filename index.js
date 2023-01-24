@@ -5,8 +5,6 @@ import { once } from 'node:events'
 // 1. Load the configuration
 //
 
-// Optional configuration
-// eslint-disable-next-line no-unused-vars
 const { FIL_WALLET_ADDRESS, ROOT_DIR } = process.env
 
 //
@@ -31,7 +29,6 @@ await once(server, 'listening')
 // 3. Let the Station know we are ready
 //
 
-// Station users won't see this
 console.log(`API: http://localhost:${server.address().port}`)
 
 //
