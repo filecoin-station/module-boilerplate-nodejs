@@ -3,7 +3,7 @@
 	 🐢 
 	<br>
 	<br>
-	nodejs
+	module-boilerplate-nodejs
 	<br>
 	<br>
 	<br>
