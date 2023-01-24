@@ -14,7 +14,7 @@
 ## Example
 
 ```bash
-$ node index.mjs
+$ node index.js
 API: http://localhost:53969
 INFO: Connected to network
 ERROR: An error happened
