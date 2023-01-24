@@ -4,5 +4,6 @@
   "version": "0.0.0",
   "license": "MIT",
   "repository": "filecion-station/module-boilerplate-nodejs",
-  "type": "module"
+  "type": "module",
+  "description": "Boilerplate for building Station Modules with Node.js"
 }

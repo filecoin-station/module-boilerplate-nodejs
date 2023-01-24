@@ -9,7 +9,7 @@
 	<br>
 </h1>
 
-> Node.js Module boilerplate
+> Boilerplate for building Station Modules with Node.js
 
 ## Example
 
