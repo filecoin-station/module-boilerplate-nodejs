@@ -1,11 +1,20 @@
-# nodejs
+<h1 align="center">
+	<br>
+	 🐢 
+	<br>
+	<br>
+	module-boilerplate-nodejs
+	<br>
+	<br>
+	<br>
+</h1>
 
-Boilerplate for building Station Modules with Node.js
+> Boilerplate for building Station Modules with Node.js
 
 ## Example
 
 ```bash
-$ node index.mjs
+$ node index.js
 API: http://localhost:53969
 INFO: Connected to network
 ERROR: An error happened

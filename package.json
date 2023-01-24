@@ -1,12 +1,9 @@
 {
-  "name": "filecoin-station-nodejs",
+  "name": "module-boilerplate-nodejs",
+  "private": true,
   "version": "0.0.0",
   "license": "MIT",
-  "repository": "filecion-station/nodejs",
-  "scripts": {
-    "test": "standard"
-  },
-  "devDependencies": {
-    "standard": "^17.0.0"
-  }
+  "repository": "filecion-station/module-boilerplate-nodejs",
+  "type": "module",
+  "description": "Boilerplate for building Station Modules with Node.js"
 }
