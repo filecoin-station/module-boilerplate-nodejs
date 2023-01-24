@@ -1,5 +1,5 @@
 import http from 'node:http'
-import { promisify } from 'node:util'
+import { once } from 'node:events'
 
 //
 // 1. Load the configuration
@@ -24,8 +24,8 @@ const server = http.createServer((req, res) => {
     // Attach extra fields if desired
   }))
 })
-const listen = promisify(server.listen.bind(server))
-await listen()
+server.listen()
+await once(server, 'listening')
 
 //
 // 3. Let the Station know we are ready
